@@ -1,0 +1,62 @@
+body
+{
+  font-family: Calibri;
+  font-weight: lighter;
+  color: #9b1003;
+  background-image: url('Terra Guard.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.selected{font-weight: bold;}
+ul{list-style-type: square;}
+a
+{
+  color: #1338be;
+  text-decoration: none;
+}
+h2
+{
+  background-color: #b90e0a;
+  color: white;
+  text-align: center;
+}
+h3 {text-decoration: underline;}
+#vessel
+{
+  width:1500px;
+}
+#header
+{
+  font-family: Brush Script MT;
+  text-align: center;
+  color: #b90e0a;
+  background-image: url('header.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#meatandpotatoes
+{
+
+}
+#directory
+{
+  float: left;
+  width: 200px;
+  margin-left: 125px;
+  background-color:#fdf4f4;
+}
+#projects
+{
+  background-color:#fdf4f4;
+  float: center;
+  width: 500px;
+  margin-right: 500px;
+  margin-left: 500px;
+}
+#footer
+{
+  clear: both;
+  text-align: right;
+}
